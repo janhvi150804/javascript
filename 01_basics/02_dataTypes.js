@@ -28,3 +28,5 @@ console.log(typeof true); // O/P as the data type(boolean)
 
 
 
+
+
